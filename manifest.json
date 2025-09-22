@@ -1,0 +1,8 @@
+{
+    "domain": "patch_aionanoleaf",
+    "name": "Patch aionanoleaf IPv6 URL",
+    "version": "2025.09.21",
+    "iot_class": "local_push",
+    "codeowners": ["@krozgrov"],
+    "requirements": []
+  }
