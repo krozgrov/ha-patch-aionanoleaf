@@ -10,7 +10,7 @@ This guide explains how to install and use the **Pin aionanoleaf Fork** custom i
 
 On your Home Assistant instance, create this folder:
 
-`/config/custom_components/pin_aionanoleaf`
+`/config/custom_components/patch_aionanoleaf`
 
 Inside it, place:
 
@@ -24,7 +24,7 @@ Inside it, place:
 Add this entry at the **top level** (same indentation as `logger`, `http`, etc.):
 
 ```yaml
-pin_aionanoleaf:
+patch_aionanoleaf:
 ```
 
 ---
